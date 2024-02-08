@@ -1,6 +1,6 @@
-/* Parallax Images Scroll - by
+// /* Parallax Images Scroll - by
 
-//reset the scroll to 0 (top of page)
+reset the scroll to 0 (top of page)
 $(window).on('beforeunload', function() {
   $(window).scrollTop(0);
 });
