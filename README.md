@@ -107,6 +107,5 @@ http://jquery.com/download/
 To get a better behaviour of your scroll I recommend also adding "jquery.nicescroll.min.js" which will give your page an smooth scrolling like mobiles and ipads/tablets have.
 (more info: http://nicescroll.areaaperta.com/).
 
-For more information do not hesitate contacting me on twitter as @cyntss
 
-Licensed under the MIT License, http://www.opensource.org/licenses/mit-license.php
+Copyright (c) 2024 LovLaus - Parallax Image Scroll
